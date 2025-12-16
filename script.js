@@ -48,5 +48,3 @@ function playGame() {
     winner()
 }
 playGame()
-console.log(computerScore)
-console.log(humanScore)
